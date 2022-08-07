@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Đây là Github respository implementation của model AutoRec ([paper](https://arxiv.org/abs/2007.07224)).
+This is the Github repository implementation of the AutoRec model ([paper](https://arxiv.org/abs/2007.07224)).
 
 ## File structure
 
-- `AutoRec_regularization.ipynb`: đây là file implement AutoRec theo công thức từ paper.
+- `AutoRec_regularization.ipynb`: this is a file that implements AutoRec according to the formulas from paper.
 
-- `AutoRec_dropout.ipynb`: đây là file implement AutoRec theo kiểu Deep Learning.
+- `AutoRec_dropout.ipynb`: this is a file that implements AutoRec in Deep Learning style.
 
 ## Requirements
 
